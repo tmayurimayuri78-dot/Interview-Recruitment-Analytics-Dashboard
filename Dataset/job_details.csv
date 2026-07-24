@@ -1,0 +1,21 @@
+﻿Job_ID,Job_Role,Department,Location
+101,Data Analyst,Analytics,Chennai
+102,SQL Developer,Database,Bangalore
+103,Power BI Developer,Business Intelligence,Hyderabad
+104,Business Analyst,Business Analysis,Chennai
+105,Python Developer,Software Development,Pune
+106,Java Developer,Software Development,Bangalore
+107,Full Stack Developer,Web Development,Hyderabad
+108,QA Engineer,Quality Assurance,Chennai
+109,Cloud Support Engineer,Cloud Operations,Noida
+110,AI Engineer,Artificial Intelligence,Bangalore
+111,Data Engineer,Data Engineering,Chennai
+112,DevOps Engineer,DevOps,Hyderabad
+113,Network Engineer,Infrastructure,Mumbai
+114,System Administrator,IT Operations,Chennai
+115,UI/UX Designer,Design,Bangalore
+116,Frontend Developer,Web Development,Pune
+117,Backend Developer,Software Development,Hyderabad
+118,Cyber Security Analyst,Cyber Security,Noida
+119,Machine Learning Engineer,Artificial Intelligence,Bangalore
+120,Technical Support Engineer,Customer Support,Chennai
